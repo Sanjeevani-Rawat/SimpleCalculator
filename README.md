@@ -1,46 +1,46 @@
-# SimpleCalculator
-A basic calculator application built using Java Swing. It supports simple arithmetic operations like additio, substraction, multiplication, division and modulus for two inputs.
+# SimpleCalculator <br>
+A basic calculator application built using Java Swing. It supports simple arithmetic operations like additio, substraction, multiplication, division and modulus for two inputs. <br>
 
-⚫ FEATURES-
-  -> GUI-based calculator using JFrame, JButton, JLabel, JTextField...
-  -> It supports Addition (+), Subtraction (-), Multiplication (*), Division (/), Modulus (%)
-  -> Visual button (temporary color change on click)
-  -> Backspace Functionality (->)
-  -> Clear Functionaliyt (c)
-  -> Error handling for invalid inputs and divide-by-zero
+⚫ FEATURES- <br>
+  -> GUI-based calculator using JFrame, JButton, JLabel, JTextField... <br>
+  -> It supports Addition (+), Subtraction (-), Multiplication (*), Division (/), Modulus (%) <br>
+  -> Visual button (temporary color change on click) <br>
+  -> Backspace Functionality (->) <br>
+  -> Clear Functionaliyt (c) <br>
+  -> Error handling for invalid inputs and divide-by-zero <br>
 
-⚫ SCREENSHOTS-
+⚫ SCREENSHOTS- <br>
 
-⚫ TO RUN-
-  -> Prerequisites 
-      Java JDK installed (version 8 or above)
-      Java IDE (like IntelliJ, Eclipse) or simple text editor + terminal
-  -> Steps
-      1. Clone or Download this Repository 
-      2. Compile:
-            javac SimpleCalculator.java
-      3. Run:
-            java SimpleCalculator
+⚫ TO RUN- <br>
+  -> Prerequisites  <br>
+      Java JDK installed (version 8 or above) <br>
+      Java IDE (like IntelliJ, Eclipse) or simple text editor + terminal <br>
+  -> Steps <br>
+      1. Clone or Download this Repository  <br>
+      2. Compile: <br>
+            javac SimpleCalculator.java <br>
+      3. Run: <br>
+            java SimpleCalculator <br>
 
-⚫ TECHNOLOGIES USED-
-  -> Java - Core programming language 
-  -> Swing (javax.swing) - GUI components like JFrame, JButton...
-  -> AWT (java.awt, java.awt.event) - Event handling, layout, and GUI behaviour
+⚫ TECHNOLOGIES USED- <br>
+  -> Java - Core programming language <br>
+  -> Swing (javax.swing) - GUI components like JFrame, JButton... <br>
+  -> AWT (java.awt, java.awt.event) - Event handling, layout, and GUI behaviour <br>
 
-⚫ HIGHLIGHTS-
-  -> Manula layout (null layout manager)
-  -> Buttons change background color briefly on click using Timer. 
-  -> Expression is parsed using substring() and basic control structures.
+⚫ HIGHLIGHTS- <br>
+  -> Manula layout (null layout manager) <br>
+  -> Buttons change background color briefly on click using Timer. <br>
+  -> Expression is parsed using substring() and basic control structures. <br>
 
-⚫ LIMITATIONS-
-  -> Does not support multi-step calculations like 5+3*2
-  -> Does not support parentheses or operator precedence 
+⚫ LIMITATIONS- <br>
+  -> Does not support multi-step calculations like 5+3*2 <br>
+  -> Does not support parentheses or operator precedence <br>
 
-⚫ IMPROVEMENTS TO DO-
-  -> Add support for multi-step expressions and parentheses
-  -> Add keyboard input functionality 
-  -> Add memmory functions (M+, M-, MR)
-  -> Use a layout manager for responsive design 
+⚫ IMPROVEMENTS TO DO- <br>
+  -> Add support for multi-step expressions and parentheses <br>
+  -> Add keyboard input functionality <br>
+  -> Add memmory functions (M+, M-, MR) <br>
+  -> Use a layout manager for responsive design <br>
 
-⚫ LICENSE-
-  -> This project is open-source and free to use.
+⚫ LICENSE- <br>
+  -> This project is open-source and free to use. <br>
