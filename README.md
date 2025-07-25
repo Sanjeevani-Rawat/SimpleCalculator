@@ -10,6 +10,10 @@ A basic calculator application built using Java Swing. It supports simple arithm
   -> Error handling for invalid inputs and divide-by-zero <br>
 
 ⚫ SCREENSHOTS- <br>
+  -> My Simple Calculator look like this:
+  <img width="416" height="723" alt="image" src="https://github.com/user-attachments/assets/5558d990-c445-4706-bfb5-f5eb6862e93b" />
+    ![SimpleCalculator](https://github.com/user-attachments/assets/6e4da63d-6c34-468f-98db-aa8a9b63038f)
+
 
 ⚫ TO RUN- <br>
   -> Prerequisites  <br>
